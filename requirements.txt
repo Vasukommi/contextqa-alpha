@@ -1,0 +1,12 @@
+PyPDF2
+python-docx
+pandas
+openpyxl
+streamlit
+sentence-transformers
+faiss-cpu
+numpy
+tqdm
+openai
+pymupdf
+dotenv
